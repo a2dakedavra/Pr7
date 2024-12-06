@@ -6,8 +6,8 @@ TARGET1 = ex1
 TARGET2 = ex2
 
 # Исходные файлы
-SRC1 = Ex1.c
-SRC2 = Ex2.c
+SRC1 = Using an unnamed channel.c
+SRC2 = Using signals.c
 
 # Правила сборки
 all: $(TARGET1) $(TARGET2)
